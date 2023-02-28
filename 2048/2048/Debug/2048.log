@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\crucial files\源码 工程_徐畅\2048\2048\源.cpp(125): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  2048.vcxproj -> D:\Crucial Files\源码 工程_徐畅\2048\Debug\2048.exe
+  2048.vcxproj -> D:\Crucial Files\源码 工程_徐畅\2048\Debug\2048.pdb (Partial PDB)
